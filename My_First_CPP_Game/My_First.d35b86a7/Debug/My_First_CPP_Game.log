@@ -1,0 +1,15 @@
+﻿  win32_platform.cpp
+C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\renderer.cpp(35,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\renderer.cpp(36,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\renderer.cpp(37,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\renderer.cpp(38,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\win32_platform.cpp(49,5): warning C4007: 'WinMain': must be '__stdcall'
+  My_First_CPP_Game.vcxproj -> C:\Users\Gogo\source\repos\My_First_CPP_Game\My_First_CPP_Game\Debug\My_First_CPP_Game.exe

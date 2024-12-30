@@ -1,0 +1,6 @@
+﻿     Creating library C:\Users\Gogo\source\repos\My_First_CPP_Game\Release\utilsdll.lib and object C:\Users\Gogo\source\repos\My_First_CPP_Game\Release\utilsdll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  utilsdll.vcxproj -> C:\Users\Gogo\source\repos\My_First_CPP_Game\Release\utilsdll.dll
